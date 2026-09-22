@@ -1,0 +1,6 @@
+{
+  "name": "Mevalar Olami",
+  "description": "Eng sara va shirin mevalar onlayn do'koni: olmalar, mandarinlar, anorlar, bananlar va boshqa xilma-xil yangi uzilgan mevalar, qulay savat va jonli animatsiyalar bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
